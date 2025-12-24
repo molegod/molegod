@@ -1,6 +1,6 @@
 # Hi there, I'm Peter! 👋
 
-**Cornell University 🌽 ECE + CS Minor '27**
+### Cornell University 🌽 ECE + CS Minor '27
 
 I am engineering student and researcher working at the intersection of **Human-Computer Interaction (HCI)**, **Wearables**, and **XR**.
 
