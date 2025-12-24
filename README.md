@@ -9,7 +9,7 @@ Most of my projects can be found on my website at [peterhe.dev](https://peterhe.
 * **[consumer firebending](https://peterhe.dev/firebender)** 
 * **[spidey-sense through electrostimulation](https://peterhe.dev/sixthsense)**. 
 
-I also have co-authored 2 **[research papers](https://peterhe.dev/research)** at CHI/UIST. 
+I also have co-authored 2 **[research papers](https://peterhe.dev/research)** at ACM CHI/UIST. 
 
 ---
 
