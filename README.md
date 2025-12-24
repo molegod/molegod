@@ -26,6 +26,4 @@ I also have co-authored 2 **[research papers](https://peterhe.dev/research)** at
 * **Website:** [peterhe.dev](https://peterhe.dev)
 * **Socials:** [LinkedIn](#) • [Google Scholar](#)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=molegod&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+[![molegod's GitHub stats](https://github-readme-stats.vercel.app/api?username=molegod)](https://github.com/molegod/github-readme-stats)
