@@ -1,4 +1,4 @@
-# Hi there, I'm Peter He! 👋
+# Hi there, I'm Peter! 👋
 
 **Cornell University 🌽 ECE + CS Minor '27**
 
@@ -26,4 +26,3 @@ I also have co-authored 2 **[research papers](https://peterhe.dev/research)** at
 * **Website:** [peterhe.dev](https://peterhe.dev)
 * **Socials:** [LinkedIn](#) • [Google Scholar](#)
 
-[![molegod's GitHub stats](https://github-readme-stats.vercel.app/api?username=molegod)](https://github.com/anuraghazra/github-readme-stats)
