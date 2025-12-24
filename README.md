@@ -6,7 +6,7 @@ I am engineering student and researcher working at the intersection of **Human-C
 
 Most of my projects can be found on my website at [peterhe.dev](https://peterhe.dev). I've worked on many different things some of which include: 
 * **[gaussian splat localization](https://peterhe.dev/gaussian-splat)**
-* **[consumer flamethrowers](https://peterhe.dev/firebender)** 
+* **[consumer firebending](https://peterhe.dev/firebender)** 
 * **[spidey-sense through electrostimulation](https://peterhe.dev/sixthsense)**. 
 
 I also have co-authored 2 **[research papers](https://peterhe.dev/research)** at CHI/UIST. 
