@@ -27,5 +27,5 @@ I also have co-authored 2 **[research papers](https://peterhe.dev/research)** at
 
 * **Email:** [ph475@cornell.edu](mailto:ph475@cornell.edu)
 * **Website:** [peterhe.dev](https://peterhe.dev)
-* **Socials:** [LinkedIn](#) • [Google Scholar](#)
+* **Socials:** [LinkedIn](https://www.linkedin.com/in/ph475/) • [Google Scholar](https://scholar.google.com/citations?user=aoofdycAAAAJ&hl=en)
 
