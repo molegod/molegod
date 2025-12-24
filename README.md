@@ -2,9 +2,12 @@
 
 **Cornell University 🌽 ECE + CS Minor '27**
 
-I am engineering student and researcher working at the intersection of **Human-Computer Interaction (HCI)**, **Wearables**, and **XR**. 
+I am engineering student and researcher working at the intersection of **Human-Computer Interaction (HCI)**, **Wearables**, and **XR**.
 
-Most of my projects can be found on my website at [peterhe.dev](https://peterhe.dev). I've worked on many different things ranging from **[gaussian splat localization](https://peterhe.dev/gaussian-splat)** to **[consumer flamethrowers](https://peterhe.dev/firebender)** to weird attempts at **[being spiderman through electrostimulation](https://peterhe.dev/sixthsense)**. 
+Most of my projects can be found on my website at [peterhe.dev](https://peterhe.dev). I've worked on many different things some of which include: 
+* **[gaussian splat localization](https://peterhe.dev/gaussian-splat)**
+* **[consumer flamethrowers](https://peterhe.dev/firebender)** 
+* **[spidey-sense through electrostimulation](https://peterhe.dev/sixthsense)**. 
 
 I also have co-authored 2 **[research papers](https://peterhe.dev/research)** at CHI/UIST. 
 
