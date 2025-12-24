@@ -27,5 +27,5 @@ I also have co-authored 2 **[research papers](https://peterhe.dev/research)** at
 * **Socials:** [LinkedIn](#) • [Google Scholar](#)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Peter's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=molegod&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
