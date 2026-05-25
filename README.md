@@ -1,10 +1,8 @@
-# Hi there, I'm Peter! 👋
+# Hi there, I'm Peter!
 
-### Cornell University 🌽 ECE + Robotics Minor '27
+I am engineering undergraduate @ Cornell 🌽 and researcher working roughly wiithin **HCI**, **Wearables**, and **XR**.
 
-I am engineering student and researcher working at the intersection of **Human-Computer Interaction (HCI)**, **Wearables**, and **XR**.
-
-Most of my projects can be found on my website at [peterhe.dev](https://peterhe.dev). I've worked on many different things some of which include: 
+Most of my projects can be found on my website at [peterhe.dev](https://peterhe.dev). Some of what I've worked on include: 
 * **[gaussian splat localization](https://peterhe.dev/gaussian-splat)**
 * **[consumer firebending](https://peterhe.dev/firebender)** 
 * **[giving AI control of your body through electrical muscle stimulation ](https://peterhe.dev/humanoperator)**.
