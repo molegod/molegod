@@ -6,7 +6,7 @@ Most of my projects can be found on my website at [peterhe.dev](https://peterhe.
 * **[gaussian splat localization](https://peterhe.dev/gaussian-splat)**
 * **[consumer firebending](https://peterhe.dev/firebender)** 
 * **[giving AI control of your body through electrical muscle stimulation ](https://peterhe.dev/humanoperator)**.
-  * this one went viral (10M+ views across all platforms) and scared a lot of people ;-;
+  * this one went viral (20M+ views across all platforms) and scared a lot of people ;-;
 
 I also have co-authored 2 **[research papers](https://peterhe.dev/research)** at ACM CHI/UIST. 
 
