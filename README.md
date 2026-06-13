@@ -2,7 +2,7 @@
 
 I am engineering undergraduate @ Cornell 🌽 and researcher working roughly wiithin **HCI**, **Wearables**, and **XR**.
 
-Most of my projects can be found on my website at [peterhe.dev](https://peterhe.dev). Some of what I've worked on include: 
+Most of my projects can be found on my website at [peterhci.com](https://peterhci.com). Some of what I've worked on include: 
 * **[gaussian splat localization](https://peterhe.dev/gaussian-splat)**
 * **[consumer firebending](https://peterhe.dev/firebender)** 
 * **[giving AI control of your body through electrical muscle stimulation ](https://peterhe.dev/humanoperator)**.
@@ -25,6 +25,6 @@ I also have co-authored 2 **[research papers](https://peterhe.dev/research)** at
 ### Contact Me
 
 * **Email:** [ph475@cornell.edu](mailto:ph475@cornell.edu)
-* **Website:** [peterhe.dev](https://peterhe.dev)
+* **Website:** [peterhci.com](https://peterhci.com)
 * **Socials:** [LinkedIn](https://www.linkedin.com/in/ph475/) • [Google Scholar](https://scholar.google.com/citations?user=aoofdycAAAAJ&hl=en)
 
