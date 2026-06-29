@@ -24,7 +24,9 @@ I also have co-authored 2 **[research papers](https://peterhe.dev/research)** at
 
 ### Contact Me
 
-* **Email:** [ph475@cornell.edu](mailto:ph475@cornell.edu)
-* **Website:** [peterhci.com](https://peterhci.com)
-* **Socials:** [LinkedIn](https://www.linkedin.com/in/ph475/) • [Google Scholar](https://scholar.google.com/citations?user=aoofdycAAAAJ&hl=en)
+[![Email](https://img.shields.io/badge/Email-ph475%40cornell.edu-orange?style=flat&logo=gmail&logoColor=white)](mailto:ph475@cornell.edu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-peterhci.com-white?style=flat&logoColor=black&labelColor=e0e0e0)](https://peterhci.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ph475/)
+[![Twitter](https://img.shields.io/badge/Twitter-%40peterhci-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/peterhci)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=aoofdycAAAAJ&hl=en)
 
