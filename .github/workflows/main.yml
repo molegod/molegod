@@ -1,4 +1,2 @@
-- uses: AnthonyBSong/git-pacman@v1
-  with:
-    github_user_name: ${{ github.repository_owner }}
-    github_token: ${{ secrets.GITHUB_TOKEN }}
+- name: Git-Pacman-Viz
+  uses: AnthonyBSong/git-contrib-viz@v1.0.0
