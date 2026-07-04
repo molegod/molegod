@@ -14,7 +14,7 @@ I also have co-authored 2 **[research papers](https://peterhe.dev/research)** at
 
 ---
 
-### Experience
+### Prev. Experience
 
 * **Research Assistant @ Cornell:** I currently conduct research at the **Sci-Fi Lab** under Prof. Cheng Zhang as well as the **Happi Lab** under Prof. Cara Nunez, focusing on fabricating textile-based dry electrodes for electrostimulation and sensing.
 
